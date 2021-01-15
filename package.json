@@ -1,0 +1,34 @@
+{
+  "name": "data-structures-in-js",
+  "version": "1.0.0",
+  "description": "repository for implementing data structures using javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehangshuchatterjee/data-structures.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "data",
+    "structures",
+    "in",
+    "js"
+  ],
+  "author": "snehangshuchatterjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehangshuchatterjee/data-structures/issues"
+  },
+  "homepage": "https://github.com/snehangshuchatterjee/data-structures#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "nodemon": "^2.0.7"
+  }
+}
